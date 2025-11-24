@@ -45,7 +45,7 @@
     "@collabland/action": "^0.11.0",
     "@collabland/common": "^0.50.0",
     "@collabland/discord": "^0.29.0",
-    "@collabland/models": "^0.30.0",
+    "@collabland/models": "^0.32.3",
     "@loopback/core": "^5.1.0",
     "@loopback/rest": "^13.1.0",
     "discord-api-types": "^0.38.0",
